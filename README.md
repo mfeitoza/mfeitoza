@@ -17,9 +17,10 @@ I design and deliver highly available systems across fintech, energy, betting, a
 | Layer | Technologies |
 | :--- | :--- |
 | **Languages** | `Elixir`, `Python`, `TypeScript`, `JavaScript`, `SQL` |
-| **Backend & Distributed Systems** | `Phoenix`, `Oban`, `Node.js`, `Nest.js`, `Express`, `Flask`, `FastAPI`, `Litestar` |
+| **Backend** | `Phoenix`, `Oban`, `Node.js`, `Nest.js`, `Express`, `Flask`, `FastAPI`, `Litestar` |
 | **Frontend Architecture** | `Svelte` / `SvelteKit`, `Inertia.js`, `React`, `Angular`, `Vue 3`, `TailwindCSS` |
-| **Databases & Financial Ledgers** | `TiDB`, `TigerBeetle`, `PostgreSQL`, `MySQL`, `Redis`, `AWS Redshift`, `BigQuery` |
+| **Databases** | `TiDB`, `TigerBeetle`, `PostgreSQL`, `MySQL`, `Redis`, `AWS Redshift`, `BigQuery`, `Timescale` |
+| **Queues & Message Brokers** | `RabbitMQ`, `AWS SQS`, `BullMQ` |
 | **AI & Automation** | `Gemini APIs`, `Vector Embeddings`, `Semantic Search` |
 | **Infrastructure & DevOps** | `AWS`, `GCP`, `Apache APISIX`, `Zitadel`, `Northflank`, `Docker` |
 
