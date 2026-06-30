@@ -1,11 +1,9 @@
-# 👋 Hi, I'm Marcus Vinicius
-
 ### **Tech Leader & AI Engineer**  
 Building high-availability distributed systems, fintech platforms, real-time data pipelines, and intelligent cloud-native architectures.
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I design and deliver highly available systems across fintech, energy, betting, and data-intensive industries. Over the last years, I've architected platforms handling millions of transactions, built near real-time ETL pipelines, and led technical initiatives from concept to production. My backend and distributed systems background has naturally evolved into AI Engineering, focusing on Generative AI, agentic systems, and scalable AI infrastructure.
 
@@ -27,7 +25,7 @@ I design and deliver highly available systems across fintech, energy, betting, a
 
 ---
 
-### 🤝 Open Source Projects & Contributions
+### Open Source Projects & Contributions
 
 I love contributing to the ecosystem. Some of my open-source footprints include:
 
